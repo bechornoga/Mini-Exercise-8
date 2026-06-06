@@ -1,0 +1,17 @@
+button {
+    /* Change number 1: I changed the background color to blue. */
+    background-color: #0011ff;
+    color: #FF0000;
+    /* Change number 4: I changed the font size to 30pt. */
+    font-size: 30pt;
+    margin: 10px;
+}
+
+#danger-btn {
+    /* Change number 2: I changed the background color to pink. */
+    background-color: #ff00cc;
+}
+
+.green-bg {
+    background-color: #000000;
+}
